@@ -146,12 +146,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bylyadini/count.svg?"  />
-</div>
-
-###
-
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
