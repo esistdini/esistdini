@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/esistdini" target="blank"><img src="https://img.shields.io/twitter/follow/esistdini?logo=twitter&style=for-the-badge" alt="esistdini" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **LLM**
 
-- 📝 I regularly write articles on [https://esistdini.blogspot.com/](https://esistdini.blogspot.com/)
+- 📝 I regularly write articles on [https://esistdini.blogspot.com/](https://esistdini.medium.com/)
 
 - 💬 Ask me about **Full Stack MERN**
 
