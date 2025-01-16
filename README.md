@@ -1,12 +1,8 @@
-# Hello, I'm [esistdini](https://github.com/esistdini) 👋
+# Hello, I'm [Dini](https://github.com/esistdini) 👋
 
-I'm a passionate developer with a focus on **MERN stack technologies** and proficient in a wide range of tools and languages. I have extensive experience in:
+I'm a **Computer Engineering student** and a **cybersecurity enthusiast** with a passion for development. As a **Full Stack MERN Developer**, I specialize in building scalable and robust web applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**. I also have a strong foundation in programming and embedded systems.
 
-- **HTML**, **CSS**, **Bootstrap5**, **TailwindCSS**
-- **JavaScript**, **Node.js**, **Express.js**, **React.js**, **MongoDB**
-- **Linux**, and more!
-
-I'm constantly learning and building new projects to enhance my skills and contribute to the developer community.
+I am constantly learning and improving my skills in **cybersecurity**, **MERN stack technologies**, and much more!
 
 ## Connect with me 🌐
 
@@ -19,6 +15,8 @@ I'm constantly learning and building new projects to enhance my skills and contr
 - **Frontend**: HTML, CSS, Bootstrap5, TailwindCSS, React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
+- **Programming Languages**: Python, C++, Java
+- **Embedded Systems**: ESP32
 - **Operating Systems**: Linux
 - **Version Control**: Git, GitHub
 
