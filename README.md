@@ -60,7 +60,6 @@ I am a dedicated Computer Engineering student, currently in my 3rd year pursuing
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/esistdini/)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/esistdini)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/esistdini)  
-[![Blogspot](https://img.shields.io/badge/Blogspot-F57C00?style=for-the-badge&logo=blogger&logoColor=white)](https://grindlikeaboss.blogspot.com/)
 
 ---
 
