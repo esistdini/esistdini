@@ -47,7 +47,7 @@ I regularly write on **Medium**, sharing insights on recent cybersecurity events
 
 I'm open to networking, internships, mentorship, and collaboration in the cybersecurity space.
 
-- **LinkedIn:** [linkedin.com/in/dinesh-aswin-77a227280](https://www.linkedin.com/in/dinesh-aswin-77a227280)  
+- **LinkedIn:** [linkedin.com/in/dinesh-aswin-s](https://www.linkedin.com/in/dinesh-aswin-s/)
 - **Medium:** [esistdini.medium.com](https://esistdini.medium.com/)  
 - **GitHub:** [github.com/esistdini](https://github.com/esistdini)  
 - **Twitter:** [twitter.com/esistdini](https://twitter.com/esistdini)  
