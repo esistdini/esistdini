@@ -35,15 +35,6 @@ I regularly write on **Medium**, sharing insights on recent cybersecurity events
 
 ---
 
-## 🛠️ Skills & Tools
-
-- **Languages & Scripting:** Python, Bash, JavaScript  
-- **Pentesting Tools:** Burp Suite, Nmap, Nikto, Dirb  
-- **Platforms:** Kali Linux, Parrot OS, Windows  
-- **Others:** Git, SQL, ESP32, MicroPython  
-
----
-
 ## 🚀 Goals
 
 - Contribute to open-source security tools  
